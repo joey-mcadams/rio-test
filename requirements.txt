@@ -1,0 +1,4 @@
+rio-ui
+newsapi-python==0.2.6
+openai
+peewee
